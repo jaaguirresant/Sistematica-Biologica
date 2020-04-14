@@ -46,13 +46,43 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 ## Contenido
 
-**[Clase 1](/clase_1/Taller_matrices.md). Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
+#
 
-**[IR AL TALLER](/clase_1/Taller_matrices.md)**
+**[Clase 1](/clase_1/Taller_1.md). Repaso árboles filogenéticos y caracteres.** En esta clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos y de como los caracteres evolucionan en dichos árboles. Esta clase incluye una corta presentación ([bajar prsentación aquí](clase_1.pdf)) y un taller para determinar el nivel de entendimiento de los conceptos por parte de los estudiantes.
+
+**[IR AL TALLER](/clase_1/Taller_1.md)**
+
+**Nota:** Para la próxima clase leer los suiguientes artículos y responder el formulario:
+
+1. [???](¿¿¿)- Bichos
+
+2. VIH
+
+3. [formulario](Formulario).
 
 #
 
-**[Clase 2](/clase_2/Taller_2.md). Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
+**[Clase 2](/clase_2/Taller_2.md). Estructura de un estudio de inferencia filogenética.** En esta clase exploraremos el esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [???](??). Además exploraremos el tipo de preguntas que pueden formularse en este tema, así como los datos que se usan para responderlas. Para este último punto, discutiremos al final de la clase un asunto relevante hoy en día: la filogenia del COVID-19. Para esto, exploraremos la herramienta generada por [Nexstrain](https://nextstrain.org/). 
+
+La tarea para la próxima clase es ver el video de Trevor Bedford: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y responder la siguiente encuesta: [Análisis de la filogenia y los virus](/clase_2/Taller_2.md).
+
+#
+
+**[Clase 3](/clase_2/Taller_2.md). PARTE 1: Construcción manual de matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos. (Descargar PDF de la ntroducción [aquí](enlace)). Para esto, haremos un ejercicio práctico donde cada grupo de estudio generará una matriz de caracteres de un grupo taxonómico de interés. Las instrucciones del taller están en este enlace [instrucciones](enlace). La organización de los grupos de trabajo y respectivas salas de reunión virtuales están en este [enlace]. 
+
+#
+
+**[Clase 4](/clase_2/Taller_2.md). PARTE 2: taller de manejo de matrices y datos en R.** Se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. (Descargar la presentación [aquí](/clase_1/Clase_1.pdf)). Para esta parte se recomienda descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). La guía para este ejercicio se encuentra aquí:
+
+**[IR AL TALLER](/clase_1/Taller_matrices.md)**
+
+Las preguntas asociadas a este ejercicio se encuentran en el siguiente cuestionario:
+
+ENLACE.
+
+#
+
+**[Clase 5](/clase_2/Taller_2.md). Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
 
 **[IR AL TALLER 2](/clase_2/Taller_2.md)**
 
@@ -69,7 +99,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**[Clase 3](/Clase_3/Taller_MP1.md). Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
+**[Clase 6](/Clase_3/Taller_MP1.md). Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
 
 **[IR AL TALLER 3](/Clase_3/Taller_MP1.md)**
 
@@ -82,3 +112,14 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 - [Wiens 2011](/Clase_3/Wiens_2011.pdf)
 
 - [González 1999](/Clase_3/Gonzalez_1999_Aristolochia.pdf)
+
+#
+
+# Clase 7. Bifurcaciones de la Parsimonia y Medidas de soporte
+
+# Clase 8. Modelos y ML
+
+# Clase 9. Bayesiana
+
+# Clase 10. Presentación de proyectos.
+

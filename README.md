@@ -1,6 +1,10 @@
 # MÓDULO INFERENCIA FILOGENÉTICA
 
-![](https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg =200x200)
+<p align="center">
+  <img src="https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg" width="200" height="200" />
+</p>
+
+Figura tomada de: _https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg_
 
 ## Objetivos
 

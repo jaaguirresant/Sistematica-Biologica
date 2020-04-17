@@ -69,4 +69,4 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 **Nota:** En preparación para la próxima clase, leer el siguiente artículo:
 
-[Argnarsson (2004)](/clase_1/Argnarsson_2004.pdf)
+[Agnarsson (2004)](/clase_1/Argnarsson_2004.pdf)

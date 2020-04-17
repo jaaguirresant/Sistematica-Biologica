@@ -54,20 +54,23 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **[TALLER CONTROL DE LECTURA ](/clase_1/Taller_1.md)**
 
-**Nota:** Para la próxima clase leer los siguientes artículos y responder el formulario:
+**Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](link) y responder el formulario:
 
-1. Argnarsson (2004)
+1. [Baum & Smith (2013)](link) 
 
-2. Estructura de estudio filogenético
+2. [formulario](Formulario).
 
-3. [formulario](Formulario).
+**Nota:** En preparación para la próxima clase, leer el siguiente artículo:
+
+[Argnarsson (2004)](link)
 
 #
 
-**[Clase 2](/clase_2/Taller_2.md). Estructura de un estudio de inferencia filogenética.** En esta clase exploraremos el esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [???](??). Además exploraremos el tipo de preguntas que pueden formularse en este tema, así como los datos que se usan para responderlas. Para este último punto, discutiremos al final de la clase un asunto relevante hoy en día: la filogenia del COVID-19. Para esto, exploraremos la herramienta generada por [Nexstrain](https://nextstrain.org/). 
+**[Clase 2](/clase_2/Taller_2.md). Estructura de un estudio de inferencia filogenética.** En esta clase exploraremos el esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](link). Además exploraremos el tipo de preguntas que pueden formularse en este tema, así como los datos que se usan para responderlas. Para este último punto, discutiremos al final de la clase un asunto relevante hoy en día: la filogenia del COVID-19. Para esto, exploraremos la herramienta generada por [Nexstrain](https://nextstrain.org/). 
 
-La tarea para la próxima clase es ver el video de Trevor Bedford: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y responder el siguiente formulario: [Análisis de la filogenia y los virus](/clase_2/Taller_2.md).
+**Tarea.** La tarea para la próxima clase es ver el video de Trevor Bedford, el creador de Nexstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y responder el siguiente formulario: [Análisis de la filogenia y los virus](/clase_2/Taller_2.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho.
 
+**Nota.** Lectura recomendada como complemento de esta clase: [Protocolo](link).
 
 #
 

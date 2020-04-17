@@ -50,39 +50,27 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 ## Contenido
 
-**[Clase 1](/clase_1/Taller_matrices.md). Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
-
-**[IR AL TALLER](/clase_1/Taller_matrices.md)**
-
 #
 
-**[Clase 2](/clase_2/Taller_2.md). Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
+**[Clase 1](/clase_1/Taller_1.md). Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de [Gould, S. 1983. What, If Anything, Is a Zebra?](/clase_1/Gould_1983.pdf) y responder las preguntas del siguiente formulario [ir al formulario](link).
 
-**[IR AL TALLER 2](/clase_2/Taller_2.md)**
-
-<p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
-</p>
-
-
-**_NOTA:_** Para esta y las próximas dos clases se requiere leer los siguientes artículos:
-
-- Métodos de distancia: [Van de Peer 2009](/clase_2/distancia.pdf)
-
-- Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
-
-#
-
-**[Clase 3](/Clase_3/Taller_MP1.md). Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
-
-**[IR AL TALLER 3](/Clase_3/Taller_MP1.md)**
+[Enlace al artículo](/clase_1/Gould_1983.pdf)
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
+  <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="200" height="200" />
 </p>
 
-**NOTA:** Para la próxima clase leer los siguientes artículos: 
+Figura tomada de: _Cuchi et al (2017). Detecting taxonomic and phylogenetic signals in equid cheek teeth: towards new palaeontological and archaeological proxies. R. Soc. open sci.4160997
+http://doi.org/10.1098/rsos.160997_
 
-- [Wiens 2011](/Clase_3/Wiens_2011.pdf)
+Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](clase_1.pdf)), complementada con pequeños quizes relámpago.
 
-- [González 1999](/Clase_3/Gonzalez_1999_Aristolochia.pdf)
+**Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](link) y responder el formulario:
+
+1. [Baum & Smith (2013)](link) 
+
+2. [formulario](Formulario).
+
+**Nota:** En preparación para la próxima clase, leer el siguiente artículo:
+
+[Argnarsson (2004)](link)

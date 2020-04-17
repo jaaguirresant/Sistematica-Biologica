@@ -46,34 +46,31 @@ Aunque este módulo está diseñado para llevarse a cabo mínimamente con acceso
 
 ### Dinámica de las clases
 
-Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento.
+Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento. 
+
+**Nota.** Durante algunas clases haremos sesiones interactivas con PearDeck. Para que ustedes puedan interactuar es necesario que estén conectados a sus cuentas de correo electrónico de la UN durante la clase.
 
 ## Contenido
 
 #
 
-**[Clase 1](/clase_1/Taller_1.md). Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de [Gould, S. 1983. What, If Anything, Is a Zebra?](/clase_1/Gould_1983.pdf) y responder las preguntas del siguiente formulario [ir al formulario](link).
+**Clase 1. Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de [Gould, S. 1983. What, If Anything, Is a Zebra?](/clase_1/Gould_1983.pdf) y responder las preguntas del siguiente taller [Enlace al taller](/clase_1/Taller_1.md).
 
 [Enlace al artículo](/clase_1/Gould_1983.pdf)
+
+[Enlace al taller](/clase_1/Taller_1.md)
 
 <p align="left">
   <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="250" height="250" />
 </p>
 
-.markdown-here-wrapper {
-  font-family: Verdana, sans;
-}
-Figura tomada de: _Cuchi et al (2017). Detecting taxonomic and phylogenetic signals in equid cheek teeth: towards new palaeontological and archaeological proxies. R. Soc. open sci.4160997
+_Figura tomada de: Cuchi et al. (2017). Detecting taxonomic and phylogenetic signals in equid cheek teeth: towards new palaeontological and archaeological proxies. R. Soc. open sci.4160997
 http://doi.org/10.1098/rsos.160997_
 
-Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](clase_1.pdf)), complementada con pequeños quizes relámpago.
+Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](/clase_1/clase_1.pdf)), complementada con pequeños quizes relámpago.
 
-**Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](link) y responder el formulario:
-
-1. [Baum & Smith (2013)](link) 
-
-2. [formulario](Formulario).
+**Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](/clase_1/trait.pdf) y responder el formulario: [enlace al formulario](Formulario de Google).
 
 **Nota:** En preparación para la próxima clase, leer el siguiente artículo:
 
-[Argnarsson (2004)](link)
+[Argnarsson (2004)](/clase_1/Argnarsson_2004.pdf)

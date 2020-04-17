@@ -56,10 +56,13 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 [Enlace al artículo](/clase_1/Gould_1983.pdf)
 
-<p align="center">
-  <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="200" height="200" />
+<p align="left">
+  <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="250" height="250" />
 </p>
 
+.markdown-here-wrapper {
+  font-family: Verdana, sans;
+}
 Figura tomada de: _Cuchi et al (2017). Detecting taxonomic and phylogenetic signals in equid cheek teeth: towards new palaeontological and archaeological proxies. R. Soc. open sci.4160997
 http://doi.org/10.1098/rsos.160997_
 

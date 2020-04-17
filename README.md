@@ -54,11 +54,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**Clase 1. Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de [Gould, S. 1983. What, If Anything, Is a Zebra?](/clase_1/Gould_1983.pdf) y responder las preguntas del siguiente taller [Enlace al taller](/clase_1/Taller_1.md).
-
-[Enlace al artículo](/clase_1/Gould_1983.pdf)
-
-[Enlace al taller](/clase_1/Taller_1.md)
+**Clase 1. Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de Gould, S. 1983. What, If Anything, Is a Zebra? ([Enlace al artículo](/clase_1/Gould_1983.pdf)) y responder las preguntas del siguiente taller: ([Enlace al taller](/clase_1/Taller_1.md)).
 
 <p align="left">
   <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="300" height="250" />

@@ -1,5 +1,6 @@
 # Control de lectura del artículo: Gould, S. 1983. What, If Anything, is a Zebra?.
 
+_[Volver al inicio](/master.md)_
 
 1. Discuta por qué Gould afirma que la zebras no son un grupo monofilético y, por lo tanto, no deberían pertenecer al mismo grupo taxonómico.
 

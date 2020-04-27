@@ -1,6 +1,10 @@
 # MÓDULO INFERENCIA FILOGENÉTICA
 
-![](https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg =200x200)
+<p align="center">
+  <img src="https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg" width="330" height="300" />
+</p>
+
+Figura tomada de: _https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg_
 
 ## Objetivos
 
@@ -42,27 +46,30 @@ Aunque este módulo está diseñado para llevarse a cabo mínimamente con acceso
 
 ### Dinámica de las clases
 
-Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento.
+Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento. 
+
+**Nota.** Durante algunas clases haremos sesiones interactivas con PearDeck. Para que ustedes puedan interactuar es necesario que estén conectados a sus cuentas de correo electrónico de la UN durante la clase.
 
 ## Contenido
 
 #
 
-**[Clase 1](/clase_1/Taller_1.md). Repaso árboles filogenéticos y caracteres.** En esta clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](clase_1.pdf)), complementada con pequeños quizes relámpago y un [control de la lectura](/clase_1/Taller_1.md) del siguiente artículo:
+**Clase 1. Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de Gould, S. 1983. What, If Anything, Is a Zebra? ([Enlace al artículo](/clase_1/Gould_1983.pdf)) y responder las preguntas del siguiente taller: ([Enlace al taller](/clase_1/Taller_1.md)).
 
-[Gould, S. 1983. What, If Anything, Is a Zebra?](/clase_1/Gould_1983.pdf)
+<p align="left">
+  <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="300" height="250" />
+</p>
 
-**[TALLER CONTROL DE LECTURA ](/clase_1/Taller_1.md)**
+_Figura tomada de: Cuchi et al. (2017). Detecting taxonomic and phylogenetic signals in equid cheek teeth: towards new palaeontological and archaeological proxies. R. Soc. open sci.4160997
+http://doi.org/10.1098/rsos.160997_
 
-**Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](link) y responder el formulario:
+Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](/clase_1/clase_1.pdf)), complementada con pequeños quizes anónimos relámpago. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas. 
 
-1. [Baum & Smith (2013)](link) 
-
-2. [formulario](Formulario).
+**Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](/clase_1/trait.pdf) y responder la siguiente encuesta: https://forms.gle/qwEon5KR67FfJmjY9
 
 **Nota:** En preparación para la próxima clase, leer el siguiente artículo:
 
-[Argnarsson (2004)](link)
+[Agnarsson (2004)](/clase_1/Agnarsson_2004.pdf)
 
 #
 

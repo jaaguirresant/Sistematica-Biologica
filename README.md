@@ -78,17 +78,17 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/Taller_2.md). 
 
 <p align="center">
-  <img src="https://es.wikipedia.org/wiki/Theridiidae#/media/Archivo:Steatoda_bipunctata_female_(aka).jpg" width="130" height="200" />
+  <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
 </p>
 
-[Fuente de la_imagen](https://commons.wikimedia.org/w/index.php?curid=211212)
+[Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
 
 **Tarea.** Subir las respuestas del taller a la carpeta "Taller_2" del Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing
 
 2. Para ilustrar la relevancia de los estudios de inferencia filogenética, exploraremos la herramienta [Nexstrain](https://nextstrain.org/); una interfase gráfica que usa inferencia filogenética para entender la propagación del virus SARS-CoV-2 (COVID19) y otras pandemias recientes.
 
 <p align="center">
-  <img src="https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png" width="130" height="200" />
+  <img src="https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png" width="500" height="200" />
 </p>
 
 [Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)

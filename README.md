@@ -73,23 +73,53 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 2](/clase_2/Taller_2.md). Estructura de un estudio de inferencia filogenética.** En esta clase exploraremos el esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](link). Además exploraremos el tipo de preguntas que pueden formularse en este tema, así como los datos que se usan para responderlas. Para este último punto, discutiremos al final de la clase un asunto relevante hoy en día: la filogenia del COVID-19. Para esto, exploraremos la herramienta generada por [Nexstrain](https://nextstrain.org/). 
+**[Clase 2](/clase_2/Taller_2.md). Estructura de un estudio de inferencia filogenética.** Esta clase estará dividida en dos partes:
 
-**Tarea.** La tarea para la próxima clase es ver el video de Trevor Bedford, el creador de Nexstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y responder el siguiente formulario: [Análisis de la filogenia y los virus](/clase_2/Taller_2.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho.
+1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/Taller_2.md). 
 
-**Nota.** Lectura recomendada como complemento de esta clase: [Protocolo](link).
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/clase_2_foto_1.jpg" width="130" height="200" />
+</p>
+
+[Fuente de la_imagen](https://commons.wikimedia.org/w/index.php?curid=211212)
+
+**Tarea.** Subir las respuestas del taller a la carpeta "Taller_2" del Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing
+
+2. Para ilustrar la relevancia de los estudios de inferencia filogenética, exploraremos la herramienta [Nexstrain](https://nextstrain.org/); una interfase gráfica que usa inferencia filogenética para entender la propagación del virus SARS-CoV-2 (COVID19) y otras pandemias recientes.
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/clase_2_foto_2.jpg" width="130" height="200" />
+</p>
+
+[Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)
+
+**Tarea.** Como complemento de la actividad # 2, deben ver el video de Trevor Bedford, el creador de Nexstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y hacer el siguiente taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho. Subir las respuestas del taller al Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing 
 
 #
 
-**[Clase 3](/clase_2/Taller_2.md). Construcción manual de matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos. (Descargar PDF de la ntroducción [aquí](enlace)). Para esto, haremos un ejercicio práctico donde cada grupo de estudio generará una matriz de caracteres de un grupo taxonómico de interés. Las instrucciones del taller están en este enlace [instrucciones](enlace). La organización de los grupos de trabajo y respectivas salas de reunión virtuales están en este [enlace]. 
+**[Clase 3](/clase_2/Taller_2.md). Matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos para inferir hipótesis filogenéticas. La clase estará dividida en tres partes teórico-prácticas:
+
+1. Corta charla introductoria, explicación de los ejercicios de la clase y proyecto del módulo. Descargar la presentación [aquí](/clase_2/clase_3.pdf) y las instruciones del proyecto [aquí](/clase_3/Taller_2.md).
+
+2. Homología primaria con morfología. Ejercicio de generación de matrices con datos morfológicos. Las instrucciones detalladas de este taller se encuentran [aquí](/clase_4/Taller_2.md).
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
+</p>
+
+3. Homología primaria con secuencias de ADN. EN este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_4/Taller_2.md).
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
+</p>
 
 **_NOTA:_** Para las próximas dos clases se requiere leer el siguiente artículo:
 
-- [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf) o Lanteri?
+- [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf) o Lanteri? o Smith?
 
 #
 
-**[Clase 4](/clase_2/Taller_2.md). Métodos de distancia y argumentación Hennigiana.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
+**[Clase 4](/clase_2/Taller_2.md). Repaso métodos de distancia y argumentación Hennigiana. Máxima Parsimonia I** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
 
 **[IR AL TALLER 2](/clase_2/Taller_2.md)**
 
@@ -103,7 +133,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 5](/Clase_3/Taller_MP1.md). Máxima Parsimonia II.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
+**[Clase 5](/Clase_3/Taller_MP1.md). Máxima Parsimonia II y medidas de soporte.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
 
 **[IR AL TALLER 3](/Clase_3/Taller_MP1.md)**
 
@@ -114,7 +144,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-# Clase 6. Medidas de soporte e introducción a modelos
+# Clase 6.  Modelos
 
 # Clase 7. ML e Inferencia Bayesiana
 

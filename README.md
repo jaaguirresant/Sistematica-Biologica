@@ -88,7 +88,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 2. Para ilustrar la relevancia de los estudios de inferencia filogenética, exploraremos la herramienta [Nexstrain](https://nextstrain.org/); una interfase gráfica que usa inferencia filogenética para entender la propagación del virus SARS-CoV-2 (COVID19) y otras pandemias recientes.
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/clase_2_foto_2.jpg" width="130" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/clase_2_foto_2.png" width="130" height="200" />
 </p>
 
 [Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)
@@ -113,9 +113,11 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
 </p>
 
-**_NOTA:_** Para las próximas dos clases se requiere leer el siguiente artículo:
+**_NOTA:_** Para las próximas dos clases se requiere leer los siguientes artículos:
 
-- [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf) o Lanteri? o Smith?
+- Distancias: [Van de Peer (2009)](/clase_2/distancias.pdf) - **OPCIONAL** 
+
+- Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf
 
 #
 

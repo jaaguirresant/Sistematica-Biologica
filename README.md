@@ -73,9 +73,9 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 2](/clase_2/Taller_2.md). Estructura de un estudio de inferencia filogenética.** Esta clase estará dividida en dos partes:
+**[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética.** Esta clase estará dividida en dos partes:
 
-1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/Taller_2.md). 
+1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf). 
 
 <p align="center">
   <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
@@ -97,9 +97,9 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 3](/clase_2/Taller_2.md). Matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos para inferir hipótesis filogenéticas. La clase estará dividida en tres partes teórico-prácticas:
+**[Clase 3](/clase_3/clase_3.pdf). Matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos para inferir hipótesis filogenéticas. La clase estará dividida en tres partes teórico-prácticas:
 
-1. Corta charla introductoria, explicación de los ejercicios de la clase y proyecto del módulo. Descargar la presentación [aquí](/clase_2/clase_3.pdf) y las instruciones del proyecto [aquí](/clase_3/Taller_2.md).
+1. Corta charla introductoria, explicación de los ejercicios de la clase y proyecto del módulo. Descargar la presentación [aquí](/clase_3/clase_3.pdf) y las instruciones del proyecto [aquí](/clase_3/proyecto.md).
 
 2. Homología primaria con morfología. Ejercicio de generación de matrices con datos morfológicos. Las instrucciones detalladas de este taller se encuentran [aquí](/clase_4/Taller_2.md).
 
@@ -107,7 +107,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
 </p>
 
-3. Homología primaria con secuencias de ADN. EN este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_4/Taller_2.md).
+3. Homología primaria con secuencias de ADN. EN este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_2.md).
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />

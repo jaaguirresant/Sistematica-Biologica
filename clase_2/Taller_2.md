@@ -3,13 +3,11 @@
 
 ## PREMISA DEL ESTUDIO:
 
-#
 1. ¿Cuál es el objetivo principal de este estudio en lo que respecta a relaciones filogenéticas entre taxones?
 #
 
 ## MUESTREO DE TAXONES:
 
-#
 2. ¿Cuál es la intención de escoger un o varios grupos ajenos?
 
    a. Para incluirlos en un futuro tratamiento taxonómico.
@@ -31,7 +29,6 @@
 
 ## MUESTREO DE CARACTERES:
 
-#
 7. ¿Qué tipo de caracteres usaron los autores para los análisis?
 
 8. ¿Cuántos caracteres escogieron?

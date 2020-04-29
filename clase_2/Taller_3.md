@@ -1,4 +1,4 @@
-# Taller sobre la herramienta Nextstrain. Taller en construcción.
+# Taller sobre la herramienta Nextstrain.
 
 Este taller tiene como objetivo mostrar como un estudio de inferencia filogenética nos permite entender los patrones de propagación de virus COVID-19, para así tomar medidas para combatirlo. En este sentido, el taller involucra a lo(a)s estudiantes para que usen la herramienta [Nextstrain](https://nextstrain.org/) e interpreten los resultados con base en sus observaciones y conocimiento de la sistemática filogenética. Las actividades del taller se citan a continuación:
 
@@ -30,14 +30,18 @@ Ver el video ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-c
 
 Abrir la herramienta [Nextstrain](https://nextstrain.org/), seleccionar únicamente los casos de SARS-CoV-2 en Nueva York y responder las siguientes preguntas:
 
-2.1. ¿Todos las cepas del virus presentes en Nueva York forman un grupo monofilético o parafilético?
+4. Después de analizar el árbol filogenético, ¿es posible detectar en qué instancias el virus fue transmitido por migración desde otras partes del mundo y en qué instancias el virus se propagó localmente dentro de la ciudad? Explique que información del árbol permite hacer este tipo de inferencias.   
 
-2.2. ACR
+5. ¿Todas las cepas del virus presentes en Nueva York forman un grupo monofilético o parafilético?
 
-2.3. Primer caso (origen)
+6. ¿De qué país o región del mundo provino el primer caso de COVID19 en Nueva York?
 
-2.4. Cuando foco de infección
+7. ¿De que país (países) o región del mundo se importaron los tres grandes focos de infección del virus en Nueva York?
 
-2.5. Cuando pararon las exportaciones? cuando las importaciones? que medidas pudieron contribuir?
+8. ¿En qué momento Nueva York pasó de ser un receptor de casos del virus para convertirse en un foco de origen de la infección? ¿Qué información del árbol le permitió responder esta pregunta?
 
-2.6. origen de los principales tres focos.
+9. EL 20 de marzo, el alcalde de Nueva York dio la orden de cancelar los vuelos internacionales desde y hacía la ciudad. ¿Que patrón observa en el árbol filogenético despues de esta fecha y como lo interpreta?
+
+10. Suponga que el presidente Trump en una de sus genialidades permite desde mañana los vuelos internacionales únicamente desde Nueva York hasta Nueva Zelanda (donde hoy en dia no hay casos del virus). ¿Como cree que se visualizaría el impacto de esta medida en el árbol filogenético global después de varias semanas de haber implementado esta medida?
+
+11. ¿Qué otro patrón interesante ve en el árbol filogenético sobre la propagación del virus en Nueva York?

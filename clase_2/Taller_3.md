@@ -6,11 +6,11 @@ Distribuirse en los siguientes grupos de trabajo y conectarse a su respectiva vi
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo 1|Deisy Marcela Angarita Ospina, Jose Luis Camargo Sarmiento, Nixon Andres Castillejo Lozano, Leyla Alejandra Castillo Múñoz, Ángela Patricia Ceballos Torres|https://meet.google.com/txm-noak-kxe|
-Grupo 2|A|https://meet.google.com/znt-nkgk-spt|
-Grupo 3|B|https://meet.google.com/fmm-vgjb-jfa|
-Grupo 4|C|https://meet.google.com/vja-tcaj-tzk|
-Grupo 5|D|https://meet.google.com/xsj-swtt-qrj|
+Grupo_1|Deisy Marcela Angarita Ospina, Jose Luis Camargo Sarmiento, Nixon Andres Castillejo Lozano, Leyla Alejandra Castillo Múñoz, Ángela Patricia Ceballos Torres|https://meet.google.com/txm-noak-kxe|
+Grupo_2|Sergio Ivan Cohecha Claros, Diana Marcela Daza Gacha, Ivan Andrés Gallego Benavides, David Ricardo Gamarra Cardona, Luisa Fernanda Alonso Gómez|https://meet.google.com/znt-nkgk-spt|
+Grupo_3|Nicolas David Gutierrez Rubiano, Juan Camilo Gutierrez Toro, Sara Hernández Acosta, Laura Milena Hernandez Hernandez, Lina María Mendez Urrea|https://meet.google.com/fmm-vgjb-jfa|
+Grupo_4|Kevin Stiven Nonsocua Triviño, Sebastian Felipe Ramirez Garavito, Juan Pablo Rueda Ramírez, Angel Giovanny Santos Gonzalez, Anggi Yulieth Solano Moreno|https://meet.google.com/vja-tcaj-tzk|
+Grupo_5|Andres Felipe Sora Martinez, Naren Mauricio Tellez Carretero, Juan Sebastian Tobaria Hernandez, Luis Eduardo Vargas Moreno, Jorge David Zabala Castro|https://meet.google.com/xsj-swtt-qrj|
 
 #
 

@@ -1,12 +1,14 @@
 # _Taller sobre la lectura de Agnarsson (2004)_
 #
 
-# PREMISA DEL ESTUDIO:
+## PREMISA DEL ESTUDIO:
+
+#
+1. ¿Cuál es el objetivo principal de este estudio en lo que respecta a relaciones filogenéticas entre taxones?
 #
 
-1. ¿Cuál es el objetivo principal de este estudio en lo que respecta a relaciones filogenéticas entre taxones?
+## MUESTREO DE TAXONES:
 
-# MUESTREO DE TAXONES:
 #
 2. ¿Cuál es la intención de escoger un o varios grupos ajenos?
 
@@ -25,10 +27,11 @@
 5. ¿Qué taxones escogieron los autores como grupo interno?
 
 6 ¿Usted cree que los taxones del grupo interno representan bien la diversidad de los Theridiidos?
-
-# MUESTREO DE CARACTERES:
 #
 
+## MUESTREO DE CARACTERES:
+
+#
 7. ¿Qué tipo de caracteres usaron los autores para los análisis?
 
 8. ¿Cuántos caracteres escogieron?

@@ -93,7 +93,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 [Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)
 
-   - **Tarea.** Como complemento de la actividad # 2, deben ver el video de Trevor Bedford, el creador de Nexstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y hacer el siguiente taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho. Subir las respuestas del taller al Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing 
+   - **Tarea.** Como complemento de la actividad # 2, deben ver el video de Trevor Bedford, el creador de la herramienta Nextstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y hacer el siguiente taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho. Subir las respuestas del taller al Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing 
 
 #
 

@@ -1,4 +1,4 @@
-# Taller sobre la herramienta Nextstrain.
+# Taller sobre la herramienta Nextstrain
 
 Este taller tiene como objetivo mostrar como un estudio de inferencia filogenética nos permite entender los patrones de propagación de virus COVID-19, para así tomar medidas para combatirlo. En este sentido, el taller involucra a lo(a)s estudiantes para que usen la herramienta [Nextstrain](https://nextstrain.org/) e interpreten los resultados con base en sus observaciones y conocimiento de la sistemática filogenética. Las actividades del taller se citan a continuación:
 

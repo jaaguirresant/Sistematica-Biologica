@@ -2,6 +2,18 @@
 
 Este taller tiene como objetivo mostrar como un estudio de inferencia filogenética nos permite entender los patrones de propagación de virus COVID-19, para así tomar medidas para combatirlo. En este sentido, el taller involucra a lo(a)s estudiantes para que usen la herramienta [Nextstrain](https://nextstrain.org/) e interpreten los resultados con base en sus observaciones y conocimiento de la sistemática filogenética. Las actividades del taller se citan a continuación:
 
+Distribuirse en los siguientes grupos de trabajo y conectarse a su respectiva videollamada:
+
+|Grupo No.|Integrantes|Enlace videollamada|
+|---|---|---|
+Grupo 1|Deisy Marcela Angarita Ospina, Jose Luis Camargo Sarmiento, Nixon Andres Castillejo Lozano, Leyla Alejandra Castillo Múñoz, Ángela Patricia Ceballos Torres|https://meet.google.com/txm-noak-kxe|
+Grupo 2|A|https://meet.google.com/znt-nkgk-spt|
+Grupo 3|B|https://meet.google.com/fmm-vgjb-jfa|
+Grupo 4|C|https://meet.google.com/vja-tcaj-tzk|
+Grupo 5|D|https://meet.google.com/xsj-swtt-qrj|
+
+#
+
 Ver el video ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y responder las siguientes preguntas:
 
 1. En tres o cuatro frases cortas (o en tres o cuatro palabras), liste los aspectos de la propagación de un virus que se pueden detectar en un árbol filogenético.

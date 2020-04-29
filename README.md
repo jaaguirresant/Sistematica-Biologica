@@ -70,3 +70,27 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 **Nota:** En preparación para la próxima clase, leer el siguiente artículo:
 
 [Agnarsson (2004)](/clase_1/Agnarsson_2004.pdf)
+
+#
+
+**[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética.** Esta clase estará dividida en dos partes:
+
+1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf). 
+
+<p align="center">
+  <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
+</p>
+
+[Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
+
+   - **Tarea.** Subir las respuestas del taller a la carpeta "Taller_2" del Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing
+
+2. Para ilustrar la relevancia de los estudios de inferencia filogenética, exploraremos la herramienta [Nexstrain](https://nextstrain.org/); una interfase gráfica que usa inferencia filogenética para entender la propagación del virus SARS-CoV-2 (COVID19) y otras pandemias recientes.
+
+<p align="center">
+  <img src="https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png" width="600" height="400" />
+</p>
+
+[Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)
+
+   - **Tarea.** Como complemento de la actividad # 2, deben ver el video de Trevor Bedford, el creador de la herramienta Nextstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y hacer el siguiente taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho. Subir las respuestas del taller al Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing 

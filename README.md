@@ -99,3 +99,11 @@ El [taller](/clase_2/Taller_3.md) de este segmento de la clase se hará en grupo
    - Abrir y explorar la herramienta Nextstrain y hacer el resto del taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md).
  
 **Tarea:** Subir las respuestas del taller a la carpeta "Taller_3" en el Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing
+
+#
+
+**Taller de iniciación en R**
+
+El siguiente enlace contiene el script de un pequeño repaso de los fundamentos de R para entender los ejercicios computacionales que veremos en este módulo: [Ir al script](/Intro_R.R). Una buena guía para aprender R es el libro "A Beginner’s Guide to R", el cual está libre para descarga durante la pandemia en el siguiente enlace: https://link.springer.com/book/10.1007/978-0-387-93837-0.
+
+#

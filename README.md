@@ -104,24 +104,22 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 2. Homología primaria con morfología. Ejercicio de generación de matrices con datos morfológicos. Las instrucciones detalladas de este taller se encuentran [aquí](/clase_4/Taller_2.md).
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/matriz_morfo.jpg" width="130" height="200" />
 </p>
 
 3. Homología primaria con secuencias de ADN. EN este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_2.md).
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/matriz_ADN.jpg" width="130" height="200" />
 </p>
 
-**_NOTA:_** Para las próximas dos clases se requiere leer los siguientes artículos:
-
-- Distancias: [Van de Peer (2009)](/clase_2/distancias.pdf) - **OPCIONAL** 
+**_NOTA:_** Para las próximas dos clases se requiere leer el/los siguientes artículos:
 
 - Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf
 
 #
 
-**[Clase 4](/clase_2/Taller_2.md). Repaso métodos de distancia y argumentación Hennigiana. Máxima Parsimonia I** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
+**[Clase 4](/clase_2/Taller_2.md). Máxima Parsimonia I** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando Máxima Parsimonia. 
 
 **[IR AL TALLER 2](/clase_2/Taller_2.md)**
 

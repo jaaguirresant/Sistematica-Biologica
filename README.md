@@ -115,7 +115,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 **_NOTA:_** Para las próximas dos clases se requiere leer el/los siguientes artículos:
 
-- Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf
+- Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf)
 
 #
 

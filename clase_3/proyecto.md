@@ -37,7 +37,7 @@ Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para l
 
 **a. Muestreo de taxones:** máximo 20 taxones, incluyendo grupo(s) ajeno(s)
 
-**b. Muestreo de caracteres:** deben ser secuencias de ADN, limitadas a uno (o todos) de los siguientes marcadores: COI, 18S y CytB (para animales) y matK, trnLF, rbcl (para plantas). Se pueden usar caracteres morfológicos también (opcional).
+**b. Muestreo de caracteres:** deben ser secuencias de ADN, limitadas a 1–3 marcadores: (p.e. COI, 18S o CytB para animales y matK, trnLF, rbcl para plantas). Se pueden usar caracteres morfológicos también (opcional).
 
 **c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. distancias, Inferencia Hennigiana, Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
 

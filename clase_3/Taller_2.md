@@ -17,11 +17,11 @@ Grupo_4|Sebastian Felipe Ramirez Garavito, Juan Pablo Rueda Ramírez, Anggi Yuli
 
 # PARTE 1: Construcción de matriz con datos morfológicos
 
-1. Cada grupo deberá hacer una sencilla pregunta de investigación sobre las relaciones filogenéticas de cualquier grupo de seis organismos vivos de fácil observación, siendo uno de ellos el grupo ajeno (por ejemplo: las plantas de sus casas, insectos del patio, o fotos de organismos en internet). 
+#### 1. Cada grupo deberá hacer una sencilla pregunta de investigación sobre las relaciones filogenéticas de cualquier grupo de seis organismos vivos de fácil observación, siendo uno de ellos el grupo ajeno (por ejemplo: las plantas de sus casas, insectos del patio, o fotos de organismos en internet). 
 
-2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 10 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
+#### 2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 10 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
 
-3. Como resultado de este ejercicio, deben crear y presentar las siguientes tres diapositivas en el documento de GoogleSlides (https://docs.google.com/presentation/d/1lAsG4xm2AaOM0rb-HYZTr-s6rTFXqWbVz1RKaQ2VRoc/edit?usp=sharing): (1) la pregunta y la escogencia de taxones; (2) la tabla de caracteres y (3) la matriz. 
+#### 3. Como resultado de este ejercicio, deben crear y presentar las siguientes tres diapositivas en el documento de GoogleSlides (https://docs.google.com/presentation/d/1lAsG4xm2AaOM0rb-HYZTr-s6rTFXqWbVz1RKaQ2VRoc/edit?usp=sharing): (1) la pregunta y la escogencia de taxones; (2) la tabla de caracteres y (3) la matriz. 
 
 #
 
@@ -33,7 +33,7 @@ Esta parte del taller es para realizar en casa y subir antes del próximo martes
 
 Aunque las matrices serían muy fácil de elaborar en una tabla de Excel, este formato no es recomendado, ya que tienen muchos caracteres de formato escondido que los programas de inferencia filogenética no pueden reconocer. Por esta razón, dichos programas exijen que la matriz de caracteres esté en el formato más simple posible. Para esta clase vamos a explorar los tres formatos más populares para construir y almacenar matrices de datos de ADN: Fasta, Nexus, Phyllip y TNT. A continuación se describen los pasos a seguir:
 
-1. Familiarizarse con los elementos de los archivos para cada formato.
+#### 1. Familiarizarse con los elementos de los archivos para cada formato.
 
 Abrir en un editor de texto los siguientes archivos: [ADN.fasta](/clase_3/ADN.fasta), [ADN.tnt](/clase_3/ADN.tnt), [ADN.nex](/clase_3/ADN.nex), [ADN.phy](/clase_3/ADN.phy).
 
@@ -62,17 +62,17 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 ## Construcción de una matriz a partir de datos de GenBank
 
-2. Bajar de GenBank 10 secuencias de ADN del gen Cyt b de cualquier grupo de animales de su interés en formato fasta. Describa el contenido de este archivo. (Se recomienda abrir este archivo en un editor de texto como notepad++).
+#### 2. Bajar de GenBank 10 secuencias de ADN del gen Cyt b de cualquier grupo de animales de su interés en formato fasta. Describa el contenido de este archivo. (Se recomienda abrir este archivo en un editor de texto como notepad++).
 
-3. Edite los nombres de los taxones para evitar nombres muy largos. Explique su estrategia para que el nombre del taxón siga siendo informativo, en caso de que tenga que volver a GenBank para revisar su informción original.
+#### 3. Edite los nombres de los taxones para evitar nombres muy largos. Explique su estrategia para que el nombre del taxón siga siendo informativo, en caso de que tenga que volver a GenBank para revisar su informción original.
 
-4. Alinee las secuencias usando Mafft (https://mafft.cbrc.jp/alignment/server/) y guarde nuevamente el alineamiento en formato fasta, nexus y Phylip. Subir estas matrices al Drive del curso.
+#### 4. Alinee las secuencias usando Mafft (https://mafft.cbrc.jp/alignment/server/) y guarde nuevamente el alineamiento en formato fasta, nexus y Phylip. Subir estas matrices al Drive del curso.
 
-5. ¿A qué equivale el proceso de alineamiento secuencias hecho por Mafft en comparación con ejercicio de codificación de caracteres morfológicos de la PARTE 1 de este taller?
+#### 5. ¿A qué equivale el proceso de alineamiento secuencias hecho por Mafft en comparación con ejercicio de codificación de caracteres morfológicos de la PARTE 1 de este taller?
 
 ## Ejercicios avanzados (OPCIONALES)
 
-6. Paso a paso para generar matrices en Mesquite
+#### 6. Paso a paso para generar matrices en Mesquite
 
 Escoja seis organismos de su interés (5 del grupo interno y 1 grupo ajeno), construya una matriz de cinco caracteres homólogos y guárdela en los formatos TNT, NEXUS y PHYLIP. A continuación se encuentran las instrucciones básicas para construir esta matriz en Mesquite:
 
@@ -124,11 +124,11 @@ i. Exportar la matriz a diferentes formatos.
 
    - File, Export y escoger el formato.
 
-6. Generar y subir matrices en R
+#### 6. Generar y subir matrices en R
 
 Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
 
-#### a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
+a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
 
 - Abra R Studio
 
@@ -188,7 +188,7 @@ write.nexus.data(mi_matriz, "mi_matriz_en_R.nex", format= "standard", datablock=
 ```
 
 
-#### b. Leer un archivo que contiene una matriz en formato Nexus
+b. Leer un archivo que contiene una matriz en formato Nexus
 
 - Asegúrese de que las matrices del comienzo de este taller están en el directorio de trabajo.
 

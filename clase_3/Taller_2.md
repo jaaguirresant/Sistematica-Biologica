@@ -136,7 +136,7 @@ a. Construya su matriz manualmente en R, siguiendo la siguiente guía:
 
 ```
 setwd("working directory")
-#En mi computador sería algo así: setwd("~/Google Drive/UNAL/Clases/Sistemática y Nomenclatura/2020-1/Clase 1")
+#En mi computador sería algo así: setwd("~/Google Drive/UNAL/Clases/Sistemática_Biológica/2020-1/Clase 3")
 
 ```
 

@@ -29,14 +29,22 @@ Cada grupo deberá "generar" datos de secuencias de ADN y usar métodos filogen�
 
 Desde Darwin y muchas décadas después, los llamados "grandes simios" (chimpancés, gorilas, orangutanes y bonobos) fueron clasificados en la familia Pongidae, la cual difería de la familia de los humanos y sus parientes extintos (Hominidae) por varios caracteres diagnósticos. Sin embargo, en años recientes han aparecido evidencias que apuntan a que la familia Pongidae es en realidad parafilética y no debería existir como un linaje taxonómico separado de los humanos. Con base en esta información, surge la siguiente pregunta: ¿Es la familia Pongidae un grupo monofilético, hermano de la familia hominidae, la cual solamente contiene al género Homo?
 
-http://2.bp.blogspot.com/-k6EpooOkiVc/UINAibmlKGI/AAAAAAAAPNI/9dedRrLnbzk/s1600/homino_tree_old.gif
+<p align="center">
+  <img src="http://2.bp.blogspot.com/-k6EpooOkiVc/UINAibmlKGI/AAAAAAAAPNI/9dedRrLnbzk/s1600/homino_tree_old.gif" width="330" height="300" />
+</p>
+
+[Fuente de la imagen](http://2.bp.blogspot.com/-k6EpooOkiVc/UINAibmlKGI/AAAAAAAAPNI/9dedRrLnbzk/s1600/homino_tree_old.gif)
 
 
 **GRUPOS 1 y 3:**
 
 Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para los botánicos, ya que tienen característcas intermedias entre una gimnosperma (p.e. semillas desnudas y estructuras reproductivas agrupadas en estróbilos) y una angiosperma (p.e. elementos del vaso en xilema, hojas de venación reticulada, doble fertilización y polinización zoocórica). Con base en esta información, surge la siguiente pregunta: ¿Es el género _Gnetum_ una gimnosperma, una angiosperma o ninguna de las dos?
 
-https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515445997181-DFSI4XBJNUCU3N0KD8VE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/6863727669_019293fded_b.jpg?format=750w
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515445997181-DFSI4XBJNUCU3N0KD8VE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/6863727669_019293fded_b.jpg?format=750w" width="330" height="300" />
+</p>
+
+[Fuente de la imagen](https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515445997181-DFSI4XBJNUCU3N0KD8VE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/6863727669_019293fded_b.jpg?format=750w)
 
 
 #### 3. Pautas del estudio filogenético

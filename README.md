@@ -107,3 +107,19 @@ El [taller](/clase_2/Taller_3.md) de este segmento de la clase se hará en grupo
 El siguiente enlace contiene el script de un pequeño repaso de los fundamentos de R para entender los ejercicios computacionales que veremos en este módulo: [Ir al script](/Intro_R.R). Una buena guía para aprender R es el libro "A Beginner’s Guide to R", el cual está libre para descarga durante la pandemia en el siguiente enlace: https://link.springer.com/book/10.1007/978-0-387-93837-0.
 
 #
+
+**[Clase 3](/clase_3/clase_3.pdf). Matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos para inferir hipótesis filogenéticas. La clase estará dividida en tres partes:
+
+1. Explicación del proyecto del módulo (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md))
+
+2. Breve explicación sobre  y las instruciones del proyecto [aquí](/clase_3/proyecto.md).
+
+2. Charla sobre homología primaria y codificación de matrices (Descargar la presentación [aquí](/clase_3/clase_3.pdf)). Ejercicio de homología primaria con morfología (ver taller [aquí](/clase_3/Taller_2.md)). 
+
+3. Taller homología primaria con secuencias de ADN. En este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_2.md).
+
+**_NOTA:_** Para las próximas dos clases se requiere leer alguno de los siguientes artículos:
+
+- Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf)
+
+#

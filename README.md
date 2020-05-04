@@ -97,23 +97,17 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 3](/clase_3/clase_3.pdf). Matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos para inferir hipótesis filogenéticas. La clase estará dividida en tres partes teórico-prácticas:
+**[Clase 3](/clase_3/clase_3.pdf). Matrices de caracteres para inferencia filogenética.** En esta clase práctica sentaremos las bases para que ustedes formulen sus propios proyectos y generen sus propias matrices de datos para inferir hipótesis filogenéticas. La clase estará dividida en tres partes:
 
-1. Corta charla introductoria, explicación de los ejercicios de la clase y proyecto del módulo. Descargar la presentación [aquí](/clase_3/clase_3.pdf) y las instruciones del proyecto [aquí](/clase_3/proyecto.md).
+1. Explicación del proyecto del módulo (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md))
 
-2. Homología primaria con morfología. Ejercicio de generación de matrices con datos morfológicos. Las instrucciones detalladas de este taller se encuentran [aquí](/clase_4/Taller_2.md).
+2. Breve explicación sobre  y las instruciones del proyecto [aquí](/clase_3/proyecto.md).
 
-<p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/matriz_morfo.jpg" width="130" height="200" />
-</p>
+2. Charla sobre homología primaria y codificación de matrices (Descargar la presentación [aquí](/clase_3/clase_3.pdf)). Ejercicio de homología primaria con morfología (ver taller [aquí](/clase_3/Taller_2.md)). 
 
-3. Homología primaria con secuencias de ADN. EN este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_2.md).
+3. Taller homología primaria con secuencias de ADN. En este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_2.md).
 
-<p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/matriz_ADN.jpg" width="130" height="200" />
-</p>
-
-**_NOTA:_** Para las próximas dos clases se requiere leer el/los siguientes artículos:
+**_NOTA:_** Para las próximas dos clases se requiere leer alguno de los siguientes artículos:
 
 - Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf)
 

@@ -21,7 +21,7 @@ Grupo_4|Sebastian Felipe Ramirez Garavito, Juan Pablo Rueda Ramírez, Anggi Yuli
 
 #### 1. Cada grupo deberá hacer una sencilla pregunta de investigación sobre las relaciones filogenéticas de cualquier grupo de seis organismos vivos de fácil observación, siendo uno de ellos el grupo ajeno (por ejemplo: las plantas de sus casas, insectos del patio, o fotos de organismos en internet). 
 
-#### 2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 10 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
+#### 2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 5 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
 
 #### 3. Como resultado de este ejercicio, deben crear y presentar las siguientes tres diapositivas en el documento de GoogleSlides (https://docs.google.com/presentation/d/1lAsG4xm2AaOM0rb-HYZTr-s6rTFXqWbVz1RKaQ2VRoc/edit?usp=sharing): (1) la pregunta y la escogencia de taxones; (2) la tabla de caracteres y (3) la matriz. 
 

@@ -33,7 +33,7 @@ Esta parte del taller es para realizar en casa y subir antes del próximo martes
 
 ## Formatos
 
-Aunque las matrices serían muy fácil de elaborar en una tabla de Excel, este formato no es recomendado, ya que tienen muchos caracteres de formato escondido que los programas de inferencia filogenética no pueden reconocer. Por esta razón, dichos programas exijen que la matriz de caracteres esté en el formato más simple posible. Para esta clase vamos a explorar los tres formatos más populares para construir y almacenar matrices de datos de ADN: Fasta, Nexus, Phyllip y TNT. A continuación se describen los pasos a seguir:
+Aunque las matrices serían muy fáciles de elaborar en una tabla de Excel, este formato no es recomendado, ya que tienen muchos caracteres de formato escondido que los programas de inferencia filogenética no pueden reconocer. Por esta razón, dichos programas exijen que la matriz de caracteres esté en el formato más simple posible. Para esta clase vamos a explorar los tres formatos más populares para construir y almacenar matrices de datos de ADN: Fasta, Nexus, Phyllip y TNT. A continuación se describen los pasos a seguir:
 
 #### 1. Familiarizarse con los elementos de los archivos para cada formato.
 

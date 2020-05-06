@@ -1,13 +1,13 @@
 # Inferencia filogenética con Máxima Parsimonia
 
-# Para este ejercicio usaremos los paquetes ape, phangorn y seqinr.
+# Para este ejercicio usaremos el archivo ADN.nex y los paquetes ape, phangorn y seqinr.
 
 setwd("working directory") 
 library(ape)
 library(phangorn)
 library(seqinr)
 
-# 2. Cargamos la matriz de ADN en formato Nexus con la función "read.phyDat", ya que phangorn requiere que la matriz sea de clae phyDat.
+# 2. Cargamos la matriz de ADN en formato Nexus con la función "read.phyDat", ya que phangorn requiere que la matriz sea de clase phyDat.
 
 Primates_ADN <- read.phyDat("ADN.nex", format = "nexus")
 class(Primates_ADN)

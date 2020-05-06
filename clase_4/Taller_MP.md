@@ -19,7 +19,13 @@ Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxon
 
 3. Con base en la matriz completa, infiera cual de los siguiente dos árboles es el más parsimonioso, usando el criterio de optimalidad de la Máxima Pasimonia:
 
-**Árbol 1**: ![](/clase_4/arbol1.png) **Árbol 2**: ![](/clase_4/arbol2.png)
+**Árbol 1**:
+
+![](/clase_4/arbol1.png) 
+
+**Árbol 2**: 
+
+![](/clase_4/arbol2.png)
 
 #
 

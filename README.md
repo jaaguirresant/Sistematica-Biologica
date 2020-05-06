@@ -121,3 +121,4 @@ El siguiente enlace contiene el script de un pequeño repaso de los fundamentos 
 - Máxima Parsimonia: [Lanteri (2006)](/clase_3/Parsimonia.pdf) **o** [Baum & Smith (2013)](/clase_3/MP_baum_smith2013.pdf)
 
 #
+

@@ -17,7 +17,7 @@ Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxon
 
 2. Con base en la matriz completa, infiera el árbol usando argumentación Hennigiana.
 
-3. Con base en la matriz completa, infiera cual de los siguiente dos árboles es el más parsimonioso, usando el criterio de optimalidad de la Máxima Pasimonia:
+3. Con base en la matriz completa, infiera cual de los siguiente dos árboles es el más parsimonioso y cuál es su longitud usando el criterio de optimalidad de la Máxima Pasimonia:
 
 **Árbol 1**:
 

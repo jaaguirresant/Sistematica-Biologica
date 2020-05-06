@@ -113,9 +113,9 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 4](/clase_2/Taller_2.md). Máxima Parsimonia I** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando Máxima Parsimonia. 
+**[Clase 4](/clase_2/Taller_MP.md). Distancias, Inferencia Hennigiana y Máxima Parsimonia (Parte I)** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_4.pdf). Para la parte práctica, haremos el siguiente taller con los mismos grupos de trabajo de siempre: 
 
-**[IR AL TALLER 2](/clase_2/Taller_2.md)**
+**[IR AL TALLER 2](/clase_4/Taller_MP.md)**
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
@@ -123,7 +123,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 **NOTA:** Para la próxima clase leer el siguiente artículo: 
 
-- [Wiens 2011](/Clase_3/Wiens_2011.pdf)
+- [Wiens 2011](/Clase_4/Wiens_2011.pdf)
 
 #
 

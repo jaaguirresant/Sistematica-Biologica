@@ -127,16 +127,17 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 #
 
-**[Clase 5](/Clase_3/Taller_MP1.md). Máxima Parsimonia II y medidas de soporte.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
-
-**[IR AL TALLER 3](/Clase_3/Taller_MP1.md)**
+**[Clase 5](/clase_5/Taller_MP2.md).** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia ([bajar diapositivas aquí](/clase_5/Clase_5.pdf)) y termina con una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
 </p>
 
+**[IR AL TALLER](/clase_5/Taller_MP2.md)**
 
-#
+**Nota 2:** Para la clase del jueves leer:
+
+[Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
 
 # Clase 6.  Modelos
 

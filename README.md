@@ -146,9 +146,9 @@ El siguiente enlace contiene el script de un pequeño repaso de los fundamentos 
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
 </p>
 
-**[IR AL TALLER DE TNT](/clase_5/Taller_MP2.md)**
+**[IR AL TALLER DE TNT](/clase_5/Taller_TNT.md)**
 
-**[IR AL SCRIPT DE R]((/clase_5/parsimonia.R)**
+**[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**
 
 **NOTA:** Para la clase del jueves leer:
 

@@ -136,4 +136,6 @@ El siguiente enlace contiene el script de un pequeño repaso de los fundamentos 
 
 **NOTA 2:** Para quien quiera ir prácticando con el script de R que usaremos en la próxima clase, se puede bajar [aquí](/clase_5/parsimonia.R)
 
+**NOTA 3:** Altamente recomendado que para la próxima clase ya tengan la matriz de datos alineados de sus proyectos lista y en los formatos fasta, tnt (o XREAD), Nexus y Phyllip.
+
 #

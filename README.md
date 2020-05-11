@@ -148,7 +148,7 @@ El siguiente enlace contiene el script de un pequeño repaso de los fundamentos 
 
 **[IR AL TALLER DE TNT](/clase_5/Taller_TNT.md)**
 
-**[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**
+**[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**. Para ejecutar este escript deben guardar el siguiente archivo con el nombre "ADN.nex" usando un editor texto: (ir al archivo: [ADN.nex](/clase_3/ADN.nex)). 
 
 **NOTA:** Para la clase del jueves leer:
 

@@ -17,7 +17,7 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
 Grupo_1|Deisy Marcela Angarita Ospina, Jose Luis Camargo Sarmiento, Nixon Andres Castillejo Lozano, Leyla Alejandra Castillo Múñoz, Ángela Patricia Ceballos Torres **(coordinadora)**|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Sergio Ivan Cohecha Claros, Diana Marcela Daza Gacha, Ivan Andrés Gallego Benavides, David Ricardo Gamarra Cardona, María Alejandra Pinto|https://meet.google.com/znt-nkgk-spt|
+Grupo_2|Sergio Ivan Cohecha Claros, Diana Marcela Daza Gacha **(coordinadora)**, Ivan Andrés Gallego Benavides, David Ricardo Gamarra Cardona, María Alejandra Pinto|https://meet.google.com/znt-nkgk-spt|
 Grupo_3|Nicolas David Gutierrez Rubiano, Juan Camilo Gutierrez Toro, Sara Hernández Acosta, Laura Milena Hernandez Hernandez **(coordinadora)**, Kevin Stiven Nonsocua Triviño, Jorge David Zabala Castro|https://meet.google.com/fmm-vgjb-jfa|
 Grupo_4|Sebastian Felipe Ramirez Garavito, Juan Pablo Rueda Ramírez **(coordinador)**, Anggi Yulieth Solano Moreno, Naren Mauricio Tellez Carretero, Luis Eduardo Vargas Moreno|https://meet.google.com/vja-tcaj-tzk|
 

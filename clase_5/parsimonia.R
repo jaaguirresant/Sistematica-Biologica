@@ -1,6 +1,6 @@
 # Inferencia filogenética con Máxima Parsimonia
 
-# Para este ejercicio usaremos el archivo ADN.nex y los paquetes ape, phangorn y seqinr.
+#  Para este ejercicio usaremos el archivo ADN.nex y los paquetes ape, phangorn y seqinr.
 
 setwd("working directory") 
 library(ape)

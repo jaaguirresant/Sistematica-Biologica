@@ -147,9 +147,9 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
 </p>
 
-La clase estará complementada con una tarea de cálculo manual de la verosimilitud de un árbol ([ir a la tarea](/clase_6/Taller_ML.md)) y un taller de inferencia filogenética con máxima verosimilitud usando R y RaxML. [ir al Script de R aquí](/clase_8/ML.R) para este último ejercicio usaremos las matrices [ADN.nex](/clase_3/ADN.nex) y [ADN.phy](/clase_3/ADN.phy)
+La clase estará complementada con una tarea de cálculo manual de la verosimilitud de un árbol ([ir a la tarea](/clase_6/Taller_ML.md)) y un taller de inferencia filogenética con máxima verosimilitud usando R y RaxML ([ir al Script de R aquí](/clase_6/ML.R)). Para este último ejercicio usaremos las matrices [ADN.nex](/clase_3/ADN.nex) y [ADN.phy](/clase_3/ADN.phy)
 
-**NOTA:** Recuerden que para esta  y la próxima clase deben haber leído alguno de los siguientes capítulos:
+**NOTA:** Recuerden que para esta y la próxima clase deben haber leído alguno de los siguientes capítulos:
 
 [Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
 

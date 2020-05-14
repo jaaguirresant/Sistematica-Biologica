@@ -88,7 +88,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 2. Para ilustrar la relevancia de los estudios de inferencia filogenética, exploraremos la herramienta [Nexstrain](https://nextstrain.org/); una interfase gráfica que usa inferencia filogenética para entender la propagación del virus SARS-CoV-2 (COVID19) y otras pandemias recientes.
 
 <p align="center">
-  <img src="https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png" width="600" height="400" />
+  <img src="https://francis.naukas.com/files/2020/03/D20200310-nextstrain-ncov-Genomic-epidemiology-novel-coronavirus-SARS-CoV-2-COVID-19.png" width="600" height="400" />
 </p>
 
 [Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)

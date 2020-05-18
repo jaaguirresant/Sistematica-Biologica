@@ -184,8 +184,8 @@ Para los que quieran usar MrBayes desde sus computadores, se recomienda bajar e 
   <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
 </p>
 
-3. Los estudiantes se reunirán en grupos al final de la clase para responder las preguntas del ejercicio de [Máxima Verosimilitud en R](/clase_6/ML.R)).
+3. Los estudiantes se reunirán en grupos al final de la clase para responder las preguntas del ejercicio de [Máxima Verosimilitud en R](/clase_6/ML.R).
 
-**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_9/Lectura.pdf).
+**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_7/Lectura.pdf).
 
 #

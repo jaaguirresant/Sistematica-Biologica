@@ -54,7 +54,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**Clase 1. Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de Gould, S. 1983. What, If Anything, Is a Zebra? ([Enlace al artículo](/clase_1/Gould_1983.pdf)) y responder las preguntas del siguiente taller: ([Enlace al taller](/clase_1/Taller_1.md)).
+**Clase 1. Repaso árboles filogenéticos y caracteres.** Antes de comenzar con esta clase, se recomienda leer el artículo de Gould, S. 1983. What, If Anything, Is a Zebra? ([Enlace al artículo](/clase_1/Gould_1983.pdf)) y responder las preguntas del siguiente taller: ([Enlace al taller](/clase_1/Taller_1.md)). Subir las respuestas del taller al Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing
 
 <p align="left">
   <img src="https://royalsocietypublishing.org/cms/asset/6b6bf137-4e2a-4071-b98c-01c9eb1043d2/rsos160997f03.jpg" width="300" height="250" />
@@ -63,7 +63,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 _Figura tomada de: Cuchi et al. (2017). Detecting taxonomic and phylogenetic signals in equid cheek teeth: towards new palaeontological and archaeological proxies. R. Soc. open sci.4160997
 http://doi.org/10.1098/rsos.160997_
 
-Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](/clase_1/clase_1.pdf)), complementada con pequeños quizes anónimos relámpago. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas. 
+Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lectura e interpretación de árboles filogenéticos. Esta clase incluye una corta presentación ([bajar presentación aquí](/clase_1/clase_1.pdf)), complementada con pequeños quizes anónimos relámpago. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas. 
 
 **Tarea:** Para la próxima clase leer el siguiente capitulo del libro de [Baum & Smith (2013)](/clase_1/trait.pdf) y responder la siguiente encuesta: https://forms.gle/qwEon5KR67FfJmjY9
 
@@ -75,7 +75,7 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 **[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética.** Esta clase estará dividida en dos partes:
 
-1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf). 
+1. Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 2](/clase_2/Taller_2.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
 
 <p align="center">
   <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
@@ -88,12 +88,23 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 2. Para ilustrar la relevancia de los estudios de inferencia filogenética, exploraremos la herramienta [Nexstrain](https://nextstrain.org/); una interfase gráfica que usa inferencia filogenética para entender la propagación del virus SARS-CoV-2 (COVID19) y otras pandemias recientes.
 
 <p align="center">
-  <img src="https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png" width="600" height="400" />
+  <img src="https://francis.naukas.com/files/2020/03/D20200310-nextstrain-ncov-Genomic-epidemiology-novel-coronavirus-SARS-CoV-2-COVID-19.png" width="600" height="300" />
 </p>
 
 [Fuente de la_imagen](https://nextstrain.org/static/29ad6a31f0f2469727286691b577cfa1/7c190/mumps.png)
 
-   - **Tarea.** Como complemento de la actividad # 2, deben ver el video de Trevor Bedford, el creador de la herramienta Nextstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y hacer el siguiente taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho. Subir las respuestas del taller al Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing 
+El [taller](/clase_2/Taller_3.md) de este segmento de la clase se hará en grupos y consta de dos partes:
+
+   - Ver el video de Trevor Bedford, el creador de la herramienta Nextstrain: ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk). El video está en inglés, pero en YouTube es posible generar subtítulos automáticamente traducidos al español en la opción de configuración del video (ver tutorial acá: [](https://support.google.com/youtube/answer/100078?co=GENIE.Platform%3DDesktop&hl=es-419). No es la mejor traducción, pero ayuda mucho. Con base en el video, responder las primeras tres preguntas del taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md).
+   - Abrir y explorar la herramienta Nextstrain y hacer el resto del taller: [Análisis filogenético del COVID19](/clase_2/Taller_3.md).
+ 
+**Tarea:** Subir las respuestas del taller a la carpeta "Taller_3" en el Drive del curso: https://drive.google.com/drive/folders/1GisuB1XngrFi8EogqVGG2JcIOz--MLLN?usp=sharing
+
+#
+
+**Taller de iniciación en R**
+
+El siguiente enlace contiene el script de un pequeño repaso de los fundamentos de R para entender los ejercicios computacionales que veremos en este módulo: [Ir al script](/Intro_R.R). Una buena guía para aprender R es el libro "A Beginner’s Guide to R", el cual está libre para descarga durante la pandemia en el siguiente enlace: https://link.springer.com/book/10.1007/978-0-387-93837-0.
 
 #
 
@@ -101,19 +112,17 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
 
 1. Explicación del proyecto del módulo (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md))
 
-2. Breve explicación sobre  y las instruciones del proyecto [aquí](/clase_3/proyecto.md).
+2. Charla sobre homología primaria y codificación de matrices (Descargar la presentación [aquí](/clase_3/clase_3.pdf)). Ejercicio de homología primaria con morfología (ver taller [aquí](/clase_3/Taller_4.md)). 
 
-2. Charla sobre homología primaria y codificación de matrices (Descargar la presentación [aquí](/clase_3/clase_3.pdf)). Ejercicio de homología primaria con morfología (ver taller [aquí](/clase_3/Taller_2.md)). 
-
-3. Taller homología primaria con secuencias de ADN. En este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_2.md).
+3. Taller homología primaria con secuencias de ADN. En este ejercicio se aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender el formato nexus para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_4.md).
 
 **_NOTA:_** Para las próximas dos clases se requiere leer alguno de los siguientes artículos:
 
-- Máxima Parsimonia: [Lanteri (2006)](/clase_2/parsimonia.pdf) **o** [Baumm & Smith (2013)](/clase_2/MP_baum_smith2013.pdf)
+- Máxima Parsimonia: [Lanteri (2006)](/clase_3/Parsimonia.pdf) **o** [Baum & Smith (2013)](/clase_3/MP_baum_smith2013.pdf)
 
 #
 
-**[Clase 4](/clase_2/Taller_MP.md). Distancias, Inferencia Hennigiana y Máxima Parsimonia (Parte I)** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_4.pdf). Para la parte práctica, haremos el siguiente taller con los mismos grupos de trabajo de siempre: 
+**[Clase 4](/clase_4/Taller_MP.md). Distancias, Inferencia Hennigiana y Máxima Parsimonia (Parte I)** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_4.pdf). Para la parte práctica, haremos el siguiente taller con los mismos grupos de trabajo de siempre: 
 
 **[IR AL TALLER 2](/clase_4/Taller_MP.md)**
 
@@ -121,9 +130,13 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
 </p>
 
-**NOTA:** Para la próxima clase leer el siguiente artículo: 
+**NOTA 1:** Para la próxima clase leer el siguiente artículo: 
 
-- [Wiens 2011](/Clase_4/Wiens_2011.pdf)
+- [Wiens_2011](/clase_4/Wiens_2011.pdf)
+
+**NOTA 2:** Para quien quiera ir prácticando con el script de R que usaremos en la próxima clase, se puede bajar [aquí](/clase_5/parsimonia.R)
+
+**NOTA 3:** Altamente recomendado que para la próxima clase ya tengan la matriz de datos alineados de sus proyectos lista y en los formatos fasta, tnt (o XREAD), Nexus y Phyllip.
 
 #
 
@@ -133,11 +146,13 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
 </p>
 
-**[IR AL TALLER](/clase_5/Taller_MP2.md)**
+**[IR AL TALLER DE TNT](/clase_5/Taller_TNT.md)**
 
-**Nota 2:** Para la clase del jueves leer:
+**[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**. Para ejecutar este escript deben guardar el siguiente archivo con el nombre "ADN.nex" usando un editor texto: (ir al archivo: [ADN.nex](/clase_3/ADN.nex)). 
 
-[Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
+**NOTA:** Para la clase del jueves leer:
+
+[Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf)(Texto en inglés) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf) (Texto en español)
 
 #
 
@@ -147,11 +162,31 @@ Durante la clase haremos un breve repaso de conceptos fundamentales sobre la lec
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
 </p>
 
-La clase estará complementada con una tarea de cálculo manual de la verosimilitud de un árbol ([ir a la tarea](/clase_6/Taller_ML.md)) y un taller de inferencia filogenética con máxima verosimilitud usando R y RaxML ([ir al Script de R aquí](/clase_6/ML.R)). Para este último ejercicio usaremos las matrices [ADN.nex](/clase_3/ADN.nex) y [ADN.phy](/clase_3/ADN.phy)
+La clase estará complementada con una tarea de cálculo manual de la verosimilitud de un árbol ([ir a la tarea](/clase_6/Taller_ML.md)). 
 
-**NOTA:** Recuerden que para esta y la próxima clase deben haber leído alguno de los siguientes capítulos:
+**NOTA 1:** Se recomienda explorar el programa [RAxML-GUI](https://antonellilab.github.io/raxmlGUI/). Este programa tiene algoritmos mucho más poderosos que phangorn (R) y tiene una interfaz agradable. Más información sobre RAxML_GUI [aquí](/clase_6/raxmlGUI_a_graphical_front-end_for_RaxML.pdf)
+
+**NOTA 2:** Recuerden que para esta y la próxima clase deben haber leído alguno de los siguientes capítulos:
 
 [Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
+
+#
+
+**Clase 7. Máxima Verosimilitud II e Inferencia Bayesiana.** Esta clase esté dividida en tres partes. La primera parte consiste de una charla sobre la implementación de la estadística bayesiana en el contexto de la inferencia filogenética (bajar diapositivas [aquí](/clase_7/clase_7.pdf). La segunda parte consiste en la demostración práctica de los siguientes análisis:
+
+1. Máxima Verosimilitud en R ([ir al Script de R aquí](/clase_6/ML.R)). Para este ejercicio usaremos la matriz [ADN.nex](/clase_3/ADN.nex).
+
+2. Inferencia Bayesiana con MrBayes a través del Portal [CIPRES](http://www.phylo.org/). Para visualizar los resultados, usaremos [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1).
+
+Para los que quieran usar MrBayes desde sus computadores, se recomienda bajar e instalar el programa [MrBayes](http://nbisweden.github.io/MrBayes/download.html) y seguir el siguiente tutorial: http://mrbayes.sourceforge.net/mb3.2_manual.pdf. Pueden hacer el ejercicio con la matriz [ADN.nex](/clase_3/ADN.nex), la cual ya está configurada para ser leída de inmediato por MrBayes.
+
+<p align="center">
+  <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
+</p>
+
+3. Los estudiantes se reunirán en grupos al final de la clase para responder las preguntas del ejercicio de [Máxima Verosimilitud en R](/clase_6/ML.R).
+
+**Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_7/Lectura.pdf).
 
 #
 

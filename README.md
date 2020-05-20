@@ -189,3 +189,11 @@ Para los que quieran usar MrBayes desde sus computadores, se recomienda bajar e 
 **Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_7/Lectura.pdf).
 
 #
+
+**Clase 8. Evaluación crítica de hipótesis filogenéticas** En esta clase estudiaremos de forma crítica algunos aspectos metodológicos y biológicos generales que deben tenerse en cuenta en los análisis de inferencia filogenética, entre ellos: las medidas de confianza, conflicto en las particiones de datos y la filogenia de genes vs. filogeia de las especies. Para esto haremos una corta clase donde mencionaremos estos aspectos y algunas ayudas metodológicas para sobrellevarlos ([bajar diaposistivas acá](/clase_8/Clase_8.pdf)). La clase se complementa con un taller sobre los temas aprendidos ([Ir al Taller](/clase_8/Taller_clase_8.md)).
+
+<p align="center">
+  <img src="https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png" width="350" height="250" />
+</p>
+
+[Fuente de la imagen](https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png)

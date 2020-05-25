@@ -63,16 +63,33 @@ a. Escribir un resumen tipo congreso de máximo 300 palabras donde describan las
 
 b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
 
-c. Después de que las dos presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica de 10-20 minutos entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente.
 
-Como punto de referencia, las preguntas críticas deben enfocarse en los siguientes aspectos:
+#### 5. Discusión
 
-- Estrategias de la escogencia de genes y taxones. 
+Después de que las dos presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
+
+1. Cada grupo debe escoger de antemano a un miembro del grupo que servirá como vocero del grupo en la discusión. 
+ 
+2. El vocero del grupo se encargará de formular dos preguntas críticas al grupo contrario. Se recomienda que las preguntas estén enmarcadas en los siguientes aspectos (aunque no se limita solo a estos temas):
+
+- Estrategias de la escogencia de genes y taxones
 
 - Calidad de la matriz de caracteres
 
 - Escogencia del método de inferencia filogenética y posibles fallas del método
 
-- Robustez de los resultados
+- Robustez y soporte de los resultados
 
-- Capacidad de responder la pregunta de investigación.
+- Conflicto entre particiones de datos
+
+- Capacidad de responder la pregunta de investigación
+
+**Nota:** Se recomienda que traigan ya formuladas varias preguntas antes de la clase con base en los problemas a los que ustedes se enfrentaron durante la ejecución de sus propios proyectos (p.e. dificultades en los alineamientos, dudas en la ejecución de los programas, escogencia de modelos evolutivos...etc).
+
+3. Cualquier miembro del grupo puede responder a la pregunta formulada por el grupo contrario.
+
+4. Cada grupo tendrá derecho a una réplica por pregunta.
+
+5. Al finalizar cada ronda de discusión, dos estudiantes del público, escogidos al azar por el profesor, formularán cada uno una pregunta crítica para uno de los grupos.
+
+6. Cada ronda de discusión cierra con una encuesta respondida por el público en la cual valorarán la calidad del trabajo de sus compañeros.
